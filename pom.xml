@@ -28,12 +28,6 @@
     </dependencies>
 
     <build>
-        <sourceDirectory>src</sourceDirectory>
-        <resources>
-            <resource>
-                <directory>vars</directory>
-            </resource>
-        </resources>
         <pluginManagement>
             <plugins>
                 <plugin>
